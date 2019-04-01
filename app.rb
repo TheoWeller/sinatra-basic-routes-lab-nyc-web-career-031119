@@ -6,7 +6,7 @@ get '/name' do
   "My name is Thaddy."
 end
 
-get '/homepage' do
+get '/hometown' do
   "My hometown is Thaddyland."
 end
 
